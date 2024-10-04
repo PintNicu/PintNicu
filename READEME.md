@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=PintNicu.PintNicu" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!+😊;+I'm+Nicu+and+I+turn+coffe+into+ work!;" />
+[    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!+😊;+I'm+Nicu+and+I+turn+coffe+into+work!;" />](https://readme-typing-svg.herokuapp.com/demo/?weight=700&size=25&color=5F86CF82&vCenter=true&lines=Welcome%F0%9F%98%8A!;I'm+Nicu+and+I+turn+coffe+into+work!)
 </h1>
 
 <br/>
