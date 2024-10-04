@@ -1,7 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=PintNicu.PintNicu" />
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=5F86CF82&vCenter=true&width=435&lines=Welcome%F0%9F%98%8A!;I'm+Nicu+and+I+turn+coffe+into+work!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=5F86CF82&center=true&vCenter=true&width=435&lines=Welcome%F0%9F%98%8A!;Let%60s+turn+%E2%98%95+into+work!" alt="Typing SVG" />
+    </a>
 </h1>
 
 <br/>
@@ -30,8 +31,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=5F86CF82&center=true&vCenter=true&width=435&lines=Welcome%F0%9F%98%8A!;Let%60s+turn+%E2%98%95+into+work!" alt="Typing SVG" />
-    </a>
+
+ <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,tailwind,javascript,typescript,firebase,mysql,postman,git" />
 </div>
 
 <br/>
