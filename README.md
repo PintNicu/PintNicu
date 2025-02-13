@@ -37,12 +37,19 @@
 
 <h2 align="center">📊 Contribution Activity 📊</h2>
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PintNicu&theme=transparent" />
+    <!-- Using metrics that include private contributions -->
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PintNicu&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true" />
 </div>
 
 <br/>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PintNicu&theme=transparent&hide_border=true&count_private=true" />
+    <!-- Updated streak stats with private contributions -->
+    <img src="https://streak-stats.demolab.com?user=PintNicu&theme=transparent&hide_border=true&mode=weekly&include_private=true" />
+</div>
+
+<!-- Optional: Add activity graph with private contributions -->
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PintNicu&theme=minimal&hide_border=true&custom_title=Contribution%20Graph&area=true" />
 </div>
 
