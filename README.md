@@ -37,18 +37,26 @@
 
 <h2 align="center">📊 Contribution Activity 📊</h2>
 <div align="center">
-    <!-- Using metrics that include private contributions -->
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PintNicu&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true" />
+    <table>
+        <tr>
+            <td>📊 Public Contributions</td>
+            <td>38</td>
+        </tr>
+        <tr>
+            <td>🔒 Private Contributions</td>
+            <td>131</td>
+        </tr>
+    </table>
 </div>
 
 <br/>
 
 <div align="center">
-    <!-- Updated streak stats with private contributions -->
+    <!-- Updated streak stats with minimal info -->
     <img src="https://streak-stats.demolab.com?user=PintNicu&theme=transparent&hide_border=true&mode=weekly&include_private=true" />
 </div>
 
-<!-- Optional: Add activity graph with private contributions -->
+<!-- Activity graph -->
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=PintNicu&theme=minimal&hide_border=true&custom_title=Contribution%20Graph&area=true" />
 </div>
