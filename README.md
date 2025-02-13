@@ -56,8 +56,3 @@
     <img src="https://streak-stats.demolab.com?user=PintNicu&theme=transparent&hide_border=true&mode=weekly&include_private=true" />
 </div>
 
-<!-- Activity graph -->
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PintNicu&theme=minimal&hide_border=true&custom_title=Contribution%20Graph&area=true" />
-</div>
-
