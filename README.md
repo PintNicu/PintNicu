@@ -35,5 +35,14 @@
  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,javascript,typescript,firebase,mysql,postman,git" />
 </div>
 
+<h2 align="center">📊 Contribution Activity 📊</h2>
+<div align="center">
+    <!-- GitHub Readme Stats - includes private contributions -->
+    <img src="https://github-readme-stats.vercel.app/api?username=PintNicu&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=transparent" alt="GitHub Stats" />
+    
+    <!-- GitHub Streak Stats -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PintNicu&theme=transparent" alt="GitHub Streak" />
+</div>
+
 <br/>
 
